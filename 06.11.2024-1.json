@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Lopez",
+    "age": 80,
+    "address": {
+        "street": "Clayton Trafficway",
+        "city": "Walshburgh",
+        "state": "New Hampshire",
+        "zip": "36598"
+    },
+    "contact": {
+        "phone": "+1-659-943-1364x2525",
+        "servicePhone": "800687991"
+    },
+    "birthday": "1945-20-08",
+    "ip": "129.162.166.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Include same fund population seven until. Draw piece my imagine present.\nMore work behavior myself admit. Message agreement use it interesting read deal.",
+        "bio": "Kitchen born general them military front. Chance century civil center. Officer whose those author particularly.\nAnother position too rather media budget begin put. Money head enjoy."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
