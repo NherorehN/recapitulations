@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Allen",
+    "age": 24,
+    "address": {
+        "street": "Victor Tunnel",
+        "city": "Matthewport",
+        "state": "New York",
+        "zip": "14624"
+    },
+    "contact": {
+        "phone": "637-427-7644x351",
+        "servicePhone": "800694284"
+    },
+    "birthday": "2001-15-01",
+    "ip": "192.210.3.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce it a get know Democrat. Cause under than American president.\nExpect realize identify provide make really customer. Glass those professor recent contain.",
+        "bio": "People street development arm establish draw good. Or well certainly TV provide anything. Ever subject without region sometimes movement.\nCase rock here trouble adult."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
