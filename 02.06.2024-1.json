@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Evans",
+    "age": 103,
+    "address": {
+        "street": "Moore Mountains",
+        "city": "North Alex",
+        "state": "Virginia",
+        "zip": "18829"
+    },
+    "contact": {
+        "phone": "704.279.5997",
+        "servicePhone": "800496730"
+    },
+    "birthday": "1922-10-10",
+    "ip": "198.215.178.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Plant wear program produce carry television hear visit. Easy sound such thing successful glass may.",
+        "bio": "Test shoulder center product doctor week benefit. Million box answer eye may.\nSort opportunity case economic. Table nothing general reveal possible threat. Mr care foot happen reality."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
