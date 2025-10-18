@@ -1,0 +1,25 @@
+{
+    "name": "Diamond Odom",
+    "age": 45,
+    "address": {
+        "street": "Jonathan Crossroad",
+        "city": "Escobarside",
+        "state": "Utah",
+        "zip": "20985"
+    },
+    "contact": {
+        "phone": "001-315-963-5617x47257",
+        "servicePhone": "800175399"
+    },
+    "birthday": "1980-15-01",
+    "ip": "153.76.31.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Scene rule course usually.\nLeader bar to reflect rule much present word.\nInside could yes agree purpose natural everything. Spring why represent ask west game.",
+        "bio": "Deep population everyone determine reality couple. More pull major four. Least shake pattern including.\nNearly security family until like develop. Treatment defense through same."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
