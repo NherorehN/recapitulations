@@ -1,0 +1,25 @@
+{
+    "name": "Edward Chan",
+    "age": 53,
+    "address": {
+        "street": "Amber Ridge",
+        "city": "Wendybury",
+        "state": "Nevada",
+        "zip": "98205"
+    },
+    "contact": {
+        "phone": "681-912-1898x460",
+        "servicePhone": "800317656"
+    },
+    "birthday": "1972-06-08",
+    "ip": "47.53.111.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Clear president why might. Trouble suggest approach. Over two yourself also.\nSeat threat visit federal. Certainly one perhaps purpose meet. Son hope really message.",
+        "bio": "Congress simply his. Treatment side fact.\nCourt bar would body become imagine. Book effect child information Republican mean country.\nChurch cold family true chair a measure. Bank key discussion."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
