@@ -1,0 +1,25 @@
+{
+    "name": "Miss Gloria Bradshaw",
+    "age": 101,
+    "address": {
+        "street": "Oliver Lodge",
+        "city": "Lake Amanda",
+        "state": "South Carolina",
+        "zip": "73970"
+    },
+    "contact": {
+        "phone": "614.462.7243",
+        "servicePhone": "800298825"
+    },
+    "birthday": "1924-15-08",
+    "ip": "55.238.226.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Would special possible activity system affect statement. Since right though eat.\nDirector money amount offer deal international. Quality church event could fire.",
+        "bio": "Try capital recent job stay manage. Fill fine follow blue message.\nSo especially movement word. Difference sea no thus past understand none worker. Wish court blue edge service."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
