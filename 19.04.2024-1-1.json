@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Mckinney",
+    "age": 68,
+    "address": {
+        "street": "Eaton Inlet",
+        "city": "Stephanieport",
+        "state": "New Mexico",
+        "zip": "47063"
+    },
+    "contact": {
+        "phone": "651-720-2360",
+        "servicePhone": "800614519"
+    },
+    "birthday": "1957-24-09",
+    "ip": "14.216.65.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone accept purpose know father Mrs instead. Hot red inside. Concern special but eye director.\nDrug offer drug bag Congress. Conference investment war also at benefit effort.",
+        "bio": "Mrs prevent include suddenly street choose. Moment other agency law form. Month development address firm position."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
